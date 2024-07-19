@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I Hi, I’m @mufeedkka <br>👯 I’m interested in Python Django, Odoo And Software Tesiting<br>🤝 I’m currently learning Python Django,React,Odoo<br>💬 I’m looking to collaborate on Odoo, Django
+🔭 I Hi, I’m @mufeedkka <br>👯  Python Django, Odoo Developer<br>🤝 I’m looking to collaborate on projects
 
 
 ## 🌐 Socials:
